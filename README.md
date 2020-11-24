@@ -1,4 +1,4 @@
-# Gif.ty
+# (>_<) Gif.ty
 
 Gif.ty is a web app that entaertains you with tons of random GIFs and selected tag of Random GIFs.
 
